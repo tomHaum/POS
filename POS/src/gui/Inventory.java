@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 
 import soBeSorted.*;
 //has yet to be fully implemented
-//will take over the spagethee in the main class
+//will take over the spaghetti in the main class
 public class Inventory implements ActionListener {
 	JPanel master;
 	JButton addNewBook;
